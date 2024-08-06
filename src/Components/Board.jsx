@@ -63,7 +63,7 @@ const Board = () => {
         ) : (
           <>
             {showButton ? (
-              <h4>{isXTurn ? "player x" : "player 0"} please move !</h4>
+              <h4>{isXTurn ? "player x" : "player 0"} Khel BC !</h4>
             ) : (
               <h4>It's A Draw ! Please start again!</h4>
             )}
